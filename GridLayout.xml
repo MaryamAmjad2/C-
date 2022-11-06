@@ -1,0 +1,19 @@
+ <Grid.RowDefinitions> 
+            <RowDefinition  ></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition ></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        
+        
+        <TextBlock  Background="AliceBlue" Text="HEllO"  Grid.Row="0"  Grid.Column="0" Grid.ColumnSpan="2"></TextBlock>
+        <TextBlock Background="PaleGreen" Text="HI" Grid.Row="0"  Grid.Column="2" Grid.RowSpan="2"></TextBlock>
+        <TextBlock Background="Bisque" Text="HI" Grid.Row="1"   > </TextBlock>
+        <TextBlock Background="Olive" Text="HI" Grid.Row="1"  Grid.Column="1" ></TextBlock>
+        <TextBlock Background="Orange" Text="HI" Grid.Row="2"  Grid.Column="0" ></TextBlock>
+        <TextBlock Background="Green" Text="HI" Grid.Row="2"  Grid.Column="1" ></TextBlock>
+        <TextBlock Background="Pink" Text="HI" Grid.Row="2"  Grid.Column="3" ></TextBlock>
