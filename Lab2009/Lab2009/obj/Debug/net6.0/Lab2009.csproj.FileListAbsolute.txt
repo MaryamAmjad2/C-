@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\Lab2009\Lab2009\obj\Debug\net6.0\Lab2009.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Lab2009\Lab2009\obj\Debug\net6.0\Lab2009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\Lab2009\Lab2009\obj\Debug\net6.0\Lab2009.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\Lab2009\Lab2009\obj\Debug\net6.0\Lab2009.AssemblyInfo.cs
+C:\Users\student\source\repos\Lab2009\Lab2009\obj\Debug\net6.0\Lab2009.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Lab2009\Lab2009\bin\Debug\net6.0\Lab2009.exe
+C:\Users\student\source\repos\Lab2009\Lab2009\bin\Debug\net6.0\Lab2009.deps.json
+C:\Users\student\source\repos\Lab2009\Lab2009\bin\Debug\net6.0\Lab2009.runtimeconfig.json
+C:\Users\student\source\repos\Lab2009\Lab2009\bin\Debug\net6.0\Lab2009.dll
+C:\Users\student\source\repos\Lab2009\Lab2009\bin\Debug\net6.0\Lab2009.pdb
+C:\Users\student\source\repos\Lab2009\Lab2009\obj\Debug\net6.0\Lab2009.dll
+C:\Users\student\source\repos\Lab2009\Lab2009\obj\Debug\net6.0\refint\Lab2009.dll
+C:\Users\student\source\repos\Lab2009\Lab2009\obj\Debug\net6.0\Lab2009.pdb
+C:\Users\student\source\repos\Lab2009\Lab2009\obj\Debug\net6.0\Lab2009.genruntimeconfig.cache
+C:\Users\student\source\repos\Lab2009\Lab2009\obj\Debug\net6.0\ref\Lab2009.dll
