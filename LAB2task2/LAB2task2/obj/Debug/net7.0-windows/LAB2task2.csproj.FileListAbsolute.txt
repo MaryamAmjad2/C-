@@ -1,0 +1,17 @@
+C:\Users\student\source\repos\LAB2task2\LAB2task2\bin\Debug\net7.0-windows\LAB2task2.exe
+C:\Users\student\source\repos\LAB2task2\LAB2task2\bin\Debug\net7.0-windows\LAB2task2.deps.json
+C:\Users\student\source\repos\LAB2task2\LAB2task2\bin\Debug\net7.0-windows\LAB2task2.runtimeconfig.json
+C:\Users\student\source\repos\LAB2task2\LAB2task2\bin\Debug\net7.0-windows\LAB2task2.dll
+C:\Users\student\source\repos\LAB2task2\LAB2task2\bin\Debug\net7.0-windows\LAB2task2.pdb
+C:\Users\student\source\repos\LAB2task2\LAB2task2\obj\Debug\net7.0-windows\LAB2task2.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\LAB2task2\LAB2task2\obj\Debug\net7.0-windows\LAB2task2.Form1.resources
+C:\Users\student\source\repos\LAB2task2\LAB2task2\obj\Debug\net7.0-windows\LAB2task2.csproj.GenerateResource.cache
+C:\Users\student\source\repos\LAB2task2\LAB2task2\obj\Debug\net7.0-windows\LAB2task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\LAB2task2\LAB2task2\obj\Debug\net7.0-windows\LAB2task2.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\LAB2task2\LAB2task2\obj\Debug\net7.0-windows\LAB2task2.AssemblyInfo.cs
+C:\Users\student\source\repos\LAB2task2\LAB2task2\obj\Debug\net7.0-windows\LAB2task2.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\LAB2task2\LAB2task2\obj\Debug\net7.0-windows\LAB2task2.dll
+C:\Users\student\source\repos\LAB2task2\LAB2task2\obj\Debug\net7.0-windows\refint\LAB2task2.dll
+C:\Users\student\source\repos\LAB2task2\LAB2task2\obj\Debug\net7.0-windows\LAB2task2.pdb
+C:\Users\student\source\repos\LAB2task2\LAB2task2\obj\Debug\net7.0-windows\LAB2task2.genruntimeconfig.cache
+C:\Users\student\source\repos\LAB2task2\LAB2task2\obj\Debug\net7.0-windows\ref\LAB2task2.dll
