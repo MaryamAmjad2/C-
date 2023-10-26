@@ -1,0 +1,9 @@
+C:\Users\muaaz\Documents\Visual Studio 2013\Projects\Maryam\Q3\Q3\bin\Debug\Q3.exe.config
+C:\Users\muaaz\Documents\Visual Studio 2013\Projects\Maryam\Q3\Q3\bin\Debug\Q3.exe
+C:\Users\muaaz\Documents\Visual Studio 2013\Projects\Maryam\Q3\Q3\bin\Debug\Q3.pdb
+C:\Users\muaaz\Documents\Visual Studio 2013\Projects\Maryam\Q3\Q3\obj\Debug\Q3.csprojResolveAssemblyReference.cache
+C:\Users\muaaz\Documents\Visual Studio 2013\Projects\Maryam\Q3\Q3\obj\Debug\Q3.Form1.resources
+C:\Users\muaaz\Documents\Visual Studio 2013\Projects\Maryam\Q3\Q3\obj\Debug\Q3.Properties.Resources.resources
+C:\Users\muaaz\Documents\Visual Studio 2013\Projects\Maryam\Q3\Q3\obj\Debug\Q3.csproj.GenerateResource.Cache
+C:\Users\muaaz\Documents\Visual Studio 2013\Projects\Maryam\Q3\Q3\obj\Debug\Q3.exe
+C:\Users\muaaz\Documents\Visual Studio 2013\Projects\Maryam\Q3\Q3\obj\Debug\Q3.pdb
