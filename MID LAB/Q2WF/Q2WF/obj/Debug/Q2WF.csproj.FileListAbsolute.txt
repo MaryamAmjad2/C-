@@ -1,0 +1,9 @@
+C:\Users\muaaz\Documents\Visual Studio 2013\Projects\Maryam\Q2WF\Q2WF\bin\Debug\Q2WF.exe.config
+C:\Users\muaaz\Documents\Visual Studio 2013\Projects\Maryam\Q2WF\Q2WF\bin\Debug\Q2WF.exe
+C:\Users\muaaz\Documents\Visual Studio 2013\Projects\Maryam\Q2WF\Q2WF\bin\Debug\Q2WF.pdb
+C:\Users\muaaz\Documents\Visual Studio 2013\Projects\Maryam\Q2WF\Q2WF\obj\Debug\Q2WF.Form1.resources
+C:\Users\muaaz\Documents\Visual Studio 2013\Projects\Maryam\Q2WF\Q2WF\obj\Debug\Q2WF.Properties.Resources.resources
+C:\Users\muaaz\Documents\Visual Studio 2013\Projects\Maryam\Q2WF\Q2WF\obj\Debug\Q2WF.csproj.GenerateResource.Cache
+C:\Users\muaaz\Documents\Visual Studio 2013\Projects\Maryam\Q2WF\Q2WF\obj\Debug\Q2WF.exe
+C:\Users\muaaz\Documents\Visual Studio 2013\Projects\Maryam\Q2WF\Q2WF\obj\Debug\Q2WF.pdb
+C:\Users\muaaz\Documents\Visual Studio 2013\Projects\Maryam\Q2WF\Q2WF\obj\Debug\Q2WF.csprojResolveAssemblyReference.cache
